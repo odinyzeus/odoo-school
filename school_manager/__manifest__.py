@@ -1,20 +1,20 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "sat_factures",
+    'name': "Scholar Managment Module",
 
-    'summary': "Extract the currencies information from the sat factures",
+    'summary': "Lets to de manager get control about asistant and administratives process of the alumns",
 
     'description': """
-        With this module its possible to extract the fiscal and accountable information from the sat factures downloaded
+        With this module the mananager of publics school could control all admnistratives process
     """,
 
-    'author': "Eduardo Vargas",
-    'website': "https://ceivrya.com.mx",
+    'author': "Dr. T.A. Eduardo Vargas Bernardino",
+    'website': "",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/15.0/odoo/addons/base/data/ir_module_category_data.xml
     # for the full list
-    'category': 'Utilities',
+    'category': 'Academics',
     'installable': True,
     'auto_install': False,
     'version': '0.1',
